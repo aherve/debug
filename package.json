@@ -1,6 +1,6 @@
 {
   "name": "debug",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "testing stuff",
   "main": "index.js",
   "repository": "git@github.com:aherve/debug",
